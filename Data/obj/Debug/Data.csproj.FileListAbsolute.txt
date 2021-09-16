@@ -1,0 +1,5 @@
+F:\ALL PROGRAMMING FILE'S\Asp.net Project's\School Management System\SchoolManagement\Data\bin\Debug\Data.dll
+F:\ALL PROGRAMMING FILE'S\Asp.net Project's\School Management System\SchoolManagement\Data\bin\Debug\Data.pdb
+F:\ALL PROGRAMMING FILE'S\Asp.net Project's\School Management System\SchoolManagement\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+F:\ALL PROGRAMMING FILE'S\Asp.net Project's\School Management System\SchoolManagement\Data\obj\Debug\Data.dll
+F:\ALL PROGRAMMING FILE'S\Asp.net Project's\School Management System\SchoolManagement\Data\obj\Debug\Data.pdb
